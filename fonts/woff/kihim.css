@@ -1,0 +1,24 @@
+/**
+ * @license
+ *
+ * Font Family: Kihim
+ * Designed by: Rocky Malaviya
+ * URL: https://www.fontshare.com/fonts/kihim
+ * © 2024 Indian Type Foundry
+ *
+ * Font Style:
+ * Kihim Regular
+ *
+*/
+
+
+@font-face {
+  font-family: 'Kihim-Regular';
+  src: url('../fonts/Kihim-Regular.woff2') format('woff2'),
+       url('../fonts/Kihim-Regular.woff') format('woff'),
+       url('../fonts/Kihim-Regular.ttf') format('truetype');
+       font-weight: 400;
+       font-display: swap;
+       font-style: normal;
+}
+
