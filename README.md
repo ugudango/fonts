@@ -6,3 +6,4 @@ This is a list of some fonts that I like. They're free for commercial use.
 
 - https://www.fontshare.com/
 - https://velvetyne.fr/
+- https://www.theleagueofmoveabletype.com/
